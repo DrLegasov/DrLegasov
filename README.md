@@ -1,5 +1,5 @@
 
-<a href="https://app.daily.dev/DrLegasov"><img src="https://github.com/DrLegasov/DrLegasov/blob/master/devcard.svg" width="400" alt="Rossi Christophe's Dev Card"/></a>
+<a href="https://app.daily.dev/DrLegasov"><img src="https://github.com/DrLegasov/DrLegasov/master/devcard.svg" width="400" alt="Rossi Christophe's Dev Card"/></a>
 
 
 
