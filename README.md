@@ -1,5 +1,6 @@
 
-<a href="https://app.daily.dev/DrLegasov"><img src="https://api.daily.dev/devcards/30255113225a49d4a53ce3d537005680.png?r=q7g" width="400" alt="Rossi Christophe's Dev Card"/></a>
+<a href="https://app.daily.dev/DrLegasov"><img src="https://api.daily.dev/devcards/30255113225a49d4a53ce3d537005680.png?r=3vx" width="400" alt="Rossi Christophe's Dev Card"/></a>
+
 
 - 👋 Hi, I’m @DrLegasov
 - 👀 I’m interested in nearly everything
